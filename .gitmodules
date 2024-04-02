@@ -15,7 +15,7 @@
 	url = https://github.com/lispparser/sexp-cpp.git
 [submodule "external/strutcpp"]
 	path = external/strutcpp
-	url = https://github.com/grumbel/strutcpp.git
+	url = https://github.com/nbuechner/strutcpp.git
 [submodule "external/tinycmmc"]
 	path = external/tinycmmc
 	url = https://github.com/grumbel/tinycmmc.git
