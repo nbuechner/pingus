@@ -13,9 +13,6 @@
 [submodule "external/sexpcpp"]
 	path = external/sexpcpp
 	url = https://github.com/lispparser/sexp-cpp.git
-[submodule "external/tinycmmc"]
-	path = external/tinycmmc
-	url = https://github.com/grumbel/tinycmmc.git
 [submodule "external/tinygettext"]
 	path = external/tinygettext
 	url = https://github.com/tinygettext/tinygettext.git
@@ -31,3 +28,6 @@
 [submodule "external/strutcpp"]
 	path = external/strutcpp
 	url = https://github.com/nbuechner/strutcpp.git
+[submodule "external/tinycmmc"]
+	path = external/tinycmmc
+	url = https://github.com/Grumbel/tinycmmc
